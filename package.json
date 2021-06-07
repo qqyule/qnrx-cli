@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "commander": "^7.2.0",
+    "inquirer": "^8.1.0",
+    "shelljs": "^0.8.4"
+  },
+  "name": "qnrx-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/qqyule/qnrx-cli.git",
+  "author": "谦哥 <qqyule@gmail.com>",
+  "license": "MIT",
+  "bin": "./index.js"
+}
