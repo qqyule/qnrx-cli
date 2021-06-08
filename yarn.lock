@@ -296,7 +296,7 @@ onetime@^5.1.0:
   dependencies:
     mimic-fn "^2.1.0"
 
-ora@^5.3.0:
+ora@^5.3.0, ora@^5.4.0:
   version "5.4.0"
   resolved "https://registry.npm.taobao.org/ora/download/ora-5.4.0.tgz?cache=0&sync_timestamp=1615981804554&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fora%2Fdownload%2Fora-5.4.0.tgz#42eda4855835b9cd14d33864c97a3c95a3f56bf4"
   integrity sha1-Qu2khVg1uc0U0zhkyXo8laP1a/Q=
